@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<data>
+
+
+  <!-- in production -->
+   <!--   <userDetail>
+        <name>dev</name>
+        <pass>myaxis@123</pass>
+        
+        <name1>root</name1>
+        <pass1>Axis.manish123</pass1>  
+    </userDetail> -->   
+  <!-- for personal -->
+  
+  
+  
+ <userDetail>
+        <name>root</name>
+        <pass>Axis.manish123</pass>        
+        <name1>dev</name1>
+        <pass1>myaxis@123</pass1>
+ </userDetail>
+
+</data>

@@ -1,0 +1,103 @@
+
+*:focus {
+    outline: none;
+}
+
+body {
+    background: linear-gradient(to bottom, white,#f1e0f1);
+    height: 100vh;
+	/* background-image: url(AxisLogo.jpg);
+    background-repeat: no-repeat;
+    background-size: 25% auto;   */
+	/* -webkit-background-size: cover;
+	background-size: cover; */    
+	/* background-position: center 50px;*/
+	font-family: Verdana; 
+
+
+
+}
+.box {
+   
+	width: 600px;
+	height: 450px;
+	margin: 50px auto 0; 
+	position: relative;
+	/* background: rgba(0, 0, 0, 0.5); */
+    background: white ;
+	text-align: center;
+	padding: 35px;
+	border: 3px solid #D8BFD8;
+	-webkit-border-radius: 70px 0 70px 0;
+	-moz-border-radius: 70px 0 70px 0;
+	border-radius: 70px 0 70px 0;
+}
+.box h2 {
+	margin-bottom: 30px;
+	color:#990099;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+input {
+	width: 100%;
+	height: 45px;   
+	/* border-radius: 15px 0 15px 0; */
+	/* border: 2px solid #990099; */
+    border:none;
+    border-bottom: solid #D8BFD8;    
+	margin-bottom: 15px;
+	background-color: transparent;
+	color: black;
+    font-size: 18px;
+}
+.box p {
+	text-align: left;
+	color: #990099;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.btn {
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	background: #990099;
+	border-radius: 25px;
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 20px;
+	cursor: pointer;
+	text-decoration: none;
+	letter-spacing: 3px;
+}
+.for-pass {
+	text-decoration: none;
+	display: block;
+	margin-top: 30px;
+	font-weight: bold;
+	font-size: 20px;
+	color: #990099;
+}
+
+#imagePro{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin-top:20px;
+    
+    
+}
+    
+#imagePro img {
+      max-width: 20%;
+      height: auto;
+}
+
+
+/* Hover effect */
+.btn:hover {
+	background-color: #0056b3; 
+	transform: scale(1.02);
+}

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.dev.logDetails","l":"Condition"},{"p":"com.dev.logDetails","l":"LoginServlet"},{"p":"com.dev.logDetails","l":"LogoutServlet"}];updateSearchResults();
